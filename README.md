@@ -1,7 +1,7 @@
 ## Hi there I am Akhter Hossen Badal
 
 
-### Hi there 👋,  I am a Fullstack Web Developer
+### Hi there,  I am a Fullstack Web Developer
 ####
 ![I am a Fullstack Web Developer](https://pbs.twimg.com/profile_banners/2004587427332231168/1767343666/600x200)
 
