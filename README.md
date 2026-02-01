@@ -5,6 +5,19 @@
 ####
 ![I am a Fullstack Web Developer](https://pbs.twimg.com/profile_banners/2004587427332231168/1767343666/600x200)
 
+![](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/624425523_122112383037180982_4938537014259252694_n.png?stp=dst-png_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=g1AaFvhvWc0Q7kNvwECKn8S&_nc_oc=AdkEkNxgyQIKK-t3E30xk_qfyYnYtFC6LcdiXtsZ2zWfBzfIoonWFbBIS8ENqgNT8Fs&_nc_zt=23&_nc_ht=scontent.fjsr11-1.fna&_nc_gid=StflP6XLcF0otIcT8CTXMA&oh=00_AftfOR8DNfm5YjCA_e7Ex-c6LCusjsh3slkdAnRcNBDNCw&oe=698539DA)
+
+
+
+
+
+
+
+
+
+
+
+
 I am a passionate and dedicated Web Developer with a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React and Next.js. I enjoy turning ideas into responsive, user-friendly web applications while understanding the logic behind how things work under the hood.
 I believe technology is not just about writing code it’s about solving real-world problems through innovation, creativity, and clean design. I constantly push myself to learn new tools, explore modern practices, and deliver solutions that provide real impact.
 Currently, I’m focusing on building scalable frontend projects while enhancing my skills in Tailwind CSS, responsive design, and modern UI development. I am passionate about problem-solving, collaboration, and contributing to meaningful projects.
