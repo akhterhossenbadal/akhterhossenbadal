@@ -6,16 +6,10 @@
 ![I am a Fullstack Web Developer](https://pbs.twimg.com/profile_banners/2004587427332231168/1767343666/600x200)
 
 I am a passionate and dedicated Web Developer with a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React and Next.js. I enjoy turning ideas into responsive, user-friendly web applications while understanding the logic behind how things work under the hood.
-
 I believe technology is not just about writing code it’s about solving real-world problems through innovation, creativity, and clean design. I constantly push myself to learn new tools, explore modern practices, and deliver solutions that provide real impact.
-
 Currently, I’m focusing on building scalable frontend projects while enhancing my skills in Tailwind CSS, responsive design, and modern UI development. I am passionate about problem-solving, collaboration, and contributing to meaningful projects.
-
 Skills & Tools: HTML | CSS | JavaScript | React | Next.js | Git & GitHub | Tailwind CSS | Responsive Design | Problem Solving. I am always open to learning opportunities, collaborations, and exciting projects that challenge me and help me grow as a developer.
-
 Skills:  ✅ JavaScript ✅ HTML5  ✅CSS3  ✅Bootstrap ✅ Photoshop / Illustrator ✅Tailwind  ✅React.js ✅Next.js ✅Modern UI//UX ✅Git  ✅Github and more
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/akhterhossenbadal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akhterhossenbadal//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/akhterhossenbadalme)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/akhterhossenbadalme//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/akhterhossenme)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/31700960/akhter-hossen-badal)  
 
