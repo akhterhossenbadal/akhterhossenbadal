@@ -1,4 +1,5 @@
 ## Hi there I am Akhter Hossen Badal
+I am a Fullstack Web Developer
 
 ### Hi there 👋, 
 #### I am a Fullstack Web Developer
