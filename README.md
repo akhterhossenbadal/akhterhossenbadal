@@ -1,8 +1,8 @@
 ## Hi there I am Akhter Hossen Badal
-I am a Fullstack Web Developer
 
-### Hi there 👋, 
-#### I am a Fullstack Web Developer
+
+### Hi there 👋,  I am a Fullstack Web Developer
+####
 ![I am a Fullstack Web Developer](https://pbs.twimg.com/profile_banners/2004587427332231168/1767343666/600x200)
 
 I am a passionate and dedicated Web Developer with a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React and Next.js. I enjoy turning ideas into responsive, user-friendly web applications while understanding the logic behind how things work under the hood.
