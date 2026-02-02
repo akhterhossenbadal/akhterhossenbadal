@@ -1,9 +1,9 @@
 ## Hi, I am Akhter Hossen Badal
-### Hello,I am a Fullstack Web Developer
 ![](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/624425523_122112383037180982_4938537014259252694_n.png?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=g1AaFvhvWc0Q7kNvwECKn8S&_nc_oc=AdkEkNxgyQIKK-t3E30xk_qfyYnYtFC6LcdiXtsZ2zWfBzfIoonWFbBIS8ENqgNT8Fs&_nc_zt=23&_nc_ht=scontent.fjsr11-1.fna&_nc_gid=cgjsaQOpF765-QTSZFoLIQ&oh=00_AfvxM6yIi3XRlBX9iCe8-eQzGa4yYTUtpqPbyoFiQC2MkQ&oe=698539DA)
 
 
 
+### Hello,I am a Fullstack Web Developer
 ### 🚀About Me:
 I am a passionate and dedicated Web Developer with a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React and Next.js. I enjoy turning ideas into responsive, user-friendly web applications while understanding the logic behind how things work under the hood.
 I believe technology is not just about writing code it’s about solving real-world problems through innovation, creativity, and clean design. I constantly push myself to learn new tools, explore modern practices, and deliver solutions that provide real impact.
@@ -23,7 +23,7 @@ Skills & Tools: HTML | CSS | JavaScript | React | Next.js | Git & GitHub | Tailw
 ✅Github and more
 
 
-### My Accivements:
+### ✨My Accivements:
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/akhterhossenbadal)](https://github.com/ryo-ma/github-profile-trophy)
