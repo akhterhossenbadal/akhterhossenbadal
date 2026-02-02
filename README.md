@@ -39,3 +39,5 @@ Skills & Tools: HTML | CSS | JavaScript | React | Next.js | Git & GitHub | Tailw
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/akhterhossenbadal)  
 
+## 📧 For Business Inquiries
+✨-akhterhossenbadaofficial610@gmail.com
