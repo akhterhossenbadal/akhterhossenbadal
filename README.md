@@ -10,7 +10,7 @@ I am a passionate and dedicated Web Developer with a strong foundation in HTML, 
 I believe technology is not just about writing code it’s about solving real-world problems through innovation, creativity, and clean design. I constantly push myself to learn new tools, explore modern practices, and deliver solutions that provide real impact.
 Currently, I’m focusing on building scalable frontend projects while enhancing my skills in Tailwind CSS, responsive design, and modern UI development. I am passionate about problem-solving, collaboration, and contributing to meaningful projects.
 Skills & Tools: HTML | CSS | JavaScript | React | Next.js | Git & GitHub | Tailwind CSS | Responsive Design | Problem Solving. I am always open to learning opportunities, collaborations, and exciting projects that challenge me and help me grow as a developer.
-###Skills:
+### Skills:
 ✅ JavaScript 
 ✅ HTML5 
 ✅CSS3 
