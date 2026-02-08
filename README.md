@@ -44,4 +44,4 @@ Skills & Tools: HTML | CSS | JavaScript | React | Next.js | Git & GitHub | Tailw
 ####
 
 ## 📧 For Business Inquiries
-✨-akhterhossenbadaofficial610@gmail.com
+✨-akhterhossenbadalofficial610@gmail.com
