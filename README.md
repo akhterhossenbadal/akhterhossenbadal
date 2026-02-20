@@ -6,17 +6,17 @@
 ### Currently, I’m focusing on building scalable frontend projects while enhancing my skills in Tailwind CSS, responsive design, and modern UI development. I am passionate about problem-solving, collaboration, and contributing to meaningful projects.
 ### Skills & Tools: HTML | CSS | JavaScript | React | Next.js | Git & GitHub | Tailwind CSS | Responsive Design | Problem Solving. I am always open to learning opportunities, collaborations, and exciting projects that challenge me and help me grow as a developer.
 ### 👨‍💻 Skills & Experiance:
-## ✅ JavaScript 
-## ✅ HTML5 
-## ✅CSS3 
-## ✅Bootstrap
-## ✅ Photoshop / Illustrator
-## ✅Tailwind 
-## ✅React.js
-## ✅Next.js
-## ✅Modern UI//UX 
-## ✅Git  
-## ✅Github and more
+### ✅ JavaScript 
+### ✅ HTML5 
+### ✅CSS3 
+### ✅Bootstrap
+### ✅ Photoshop / Illustrator
+### ✅Tailwind 
+### ✅React.js
+### ✅Next.js
+### ✅Modern UI//UX 
+### ✅Git  
+### ✅Github and more
 
 
 ### ✨My Accivements:
