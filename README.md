@@ -111,9 +111,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/akhterhossenbadal/akhterhossenbadal/output/snake.svg" alt="Snake animation" />
 
 ###
 
