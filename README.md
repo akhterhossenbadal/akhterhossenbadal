@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">🚀My Experiance</h2>
+<h3 align="left">🚀My Experiance</h2>
 
 ###
 
@@ -86,7 +86,7 @@
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
 </div>
 
-###  👤Connect me
+##  👤Connect me
 
 ###
 <br clear="both">
