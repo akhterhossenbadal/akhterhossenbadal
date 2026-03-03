@@ -14,6 +14,8 @@
   <img height="700" src="https://scontent.fdac4-1.fna.fbcdn.net/v/t39.30808-6/624482546_122122399401031361_5856718454990253124_n.png?stp=dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=b895b5&_nc_eui2=AeFxQ6sFBUPCMHvYvHD6_AsQ98EoUM46NZv3wShQzjo1m2z0Kz8kxsu8eZg1zs7sjhoHiKo95kAFAmfMiclKjGDI&_nc_ohc=bAWZW-UxuBYQ7kNvwHGFg1f&_nc_oc=AdnYVNJuThJ1eX_YLOfb6osYohcIustNcXDABQx9vY3Z1zulg94JC74AUkJCWDdRcGQ&_nc_zt=23&_nc_ht=scontent.fdac4-1.fna&_nc_gid=awOr19s6M47H9rxN_sGKxQ&_nc_ss=8&oh=00_AfxMykGzHCrNgrYo97Ju7oCUUn-vI-8SBUnemco2811rmQ&oe=69AC87A8"  />
 </div>
 
+###  🚀About Me
+
 ###
 
 <h3 align="center">I am a passionate and dedicated Full stack Web Developer with a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React and Next.js. I enjoy turning ideas into responsive, user-friendly web applications while understanding the logic behind how things work under the hood.<br>I believe technology is not just about writing code it’s about solving real-world problems through innovation, creativity, and clean design. I constantly push myself to learn new tools, explore modern practices, and deliver solutions that provide real impact.<br>Currently, I’m focusing on building scalable frontend projects while enhancing my skills in Tailwind CSS, responsive design, and modern UI development. I am passionate about problem-solving, collaboration, and contributing to meaningful projects.</h3>
