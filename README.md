@@ -1,43 +1,87 @@
-## Hi, I am Akhter Hossen Badal
-## I am a Fullstack Web Developer
-### 🚀About Me:
-### I am a passionate and dedicated Full stack  Web Developer with a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React and Next.js. I enjoy turning ideas into responsive, user-friendly web applications while understanding the logic behind how things work under the hood.
-### I believe technology is not just about writing code it’s about solving real-world problems through innovation, creativity, and clean design. I constantly push myself to learn new tools, explore modern practices, and deliver solutions that provide real impact.
-### Currently, I’m focusing on building scalable frontend projects while enhancing my skills in Tailwind CSS, responsive design, and modern UI development. I am passionate about problem-solving, collaboration, and contributing to meaningful projects.
-### Skills & Tools: HTML | CSS | JavaScript | React | Next.js | Git & GitHub | Tailwind CSS | Responsive Design | Problem Solving. I am always open to learning opportunities, collaborations, and exciting projects that challenge me and help me grow as a developer.
-### 👨‍💻 Skills & Experiance:
-### ✅ JavaScript 
-### ✅ HTML5 
-### ✅CSS3 
-### ✅Bootstrap
-### ✅ Photoshop / Illustrator
-### ✅Tailwind 
-### ✅React.js
-### ✅Next.js
-### ✅Modern UI//UX 
-### ✅Git  
-### ✅Github and more
+<br clear="both">
 
+<h1 align="center">Hello, I am Akhter Hossen Badal</h1>
 
-### ✨My Accivements:
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/akhterhossenbadal)](https://github.com/ryo-ma/github-profile-trophy)
+<h2 align="center">I am a Full Stack Web Developer</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/akhterhossenbadal)](https://github.com/anuraghazra/github-readme-stats)
+###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/akhterhossenbadal&show_icons=true&count_private=true)  
+<br clear="both">
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/akhterhossenbadal/contributions?format=svg&private=true)  
+<div align="center">
+  <img height="700" src="https://scontent.fdac4-1.fna.fbcdn.net/v/t39.30808-6/624482546_122122399401031361_5856718454990253124_n.png?stp=dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=b895b5&_nc_eui2=AeFxQ6sFBUPCMHvYvHD6_AsQ98EoUM46NZv3wShQzjo1m2z0Kz8kxsu8eZg1zs7sjhoHiKo95kAFAmfMiclKjGDI&_nc_ohc=bAWZW-UxuBYQ7kNvwHGFg1f&_nc_oc=AdnYVNJuThJ1eX_YLOfb6osYohcIustNcXDABQx9vY3Z1zulg94JC74AUkJCWDdRcGQ&_nc_zt=23&_nc_ht=scontent.fdac4-1.fna&_nc_gid=awOr19s6M47H9rxN_sGKxQ&_nc_ss=8&oh=00_AfxMykGzHCrNgrYo97Ju7oCUUn-vI-8SBUnemco2811rmQ&oe=69AC87A8"  />
+</div>
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/akhterhossenbadal)  
+###
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/akhterhossenbadal)
+<h3 align="center">I am a passionate and dedicated Full stack Web Developer with a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React and Next.js. I enjoy turning ideas into responsive, user-friendly web applications while understanding the logic behind how things work under the hood.<br>I believe technology is not just about writing code it’s about solving real-world problems through innovation, creativity, and clean design. I constantly push myself to learn new tools, explore modern practices, and deliver solutions that provide real impact.<br>Currently, I’m focusing on building scalable frontend projects while enhancing my skills in Tailwind CSS, responsive design, and modern UI development. I am passionate about problem-solving, collaboration, and contributing to meaningful projects.</h3>
 
-### ☕ Connect with me!
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/akhterhossenbadal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akhterhossenbadal//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/akhterhossenbadalme)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/akhterhossenbadalme//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/akhterhossenme)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/31700960/akhter-hossen-badal)  
+###
 
-####
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-## 📧 For Business Inquiries
-✨-akhterhossenbadalofficial610@gmail.com
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+</div>
+
+###
