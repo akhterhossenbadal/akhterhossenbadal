@@ -86,7 +86,7 @@
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
 </div>
 
-##  👤Connect me
+###  👤Connect me
 
 ###
 <br clear="both">
