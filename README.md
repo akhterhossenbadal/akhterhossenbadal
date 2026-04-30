@@ -1,7 +1,6 @@
 
 ![image alt](https://i.pinimg.com/1200x/d7/a0/e0/d7a0e07686e15945172b31787f08ce77.jpg)
 
-###  Who am I :
 <br clear="both">
 
 <h1 align="center">Hello, I am Akhter Hossen Badal</h1>
@@ -17,7 +16,7 @@
 <div align="center">
 
 
-###  🚀About Me
+### About Me :
 
 ###
 
