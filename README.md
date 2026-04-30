@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="center">I am a passionate and dedicated Full stack Web Developer with a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React and Next.js. I enjoy turning ideas into responsive, user-friendly web applications while understanding the logic behind how things work under the hood.<br>I believe technology is not just about writing code it’s about solving real-world problems through innovation, creativity, and clean design. I constantly push myself to learn new tools, explore modern practices, and deliver solutions that provide real impact.<br>Currently, I’m focusing on building scalable frontend projects while enhancing my skills in Tailwind CSS, responsive design, and modern UI development. I am passionate about problem-solving, collaboration, and contributing to meaningful projects.</h3>
+<h3 align="center">I am a passionate and dedicated Full Stack Web Developer & Software Engineer with a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React and Next.js. I enjoy turning ideas into responsive, user-friendly web applications while understanding the logic behind how things work under the hood.<br>I believe technology is not just about writing code it’s about solving real-world problems through innovation, creativity, and clean design. I constantly push myself to learn new tools, explore modern practices, and deliver solutions that provide real impact.<br>Currently, I’m focusing on building scalable frontend projects while enhancing my skills in Tailwind CSS, responsive design, and modern UI development. I am passionate about problem-solving, collaboration, and contributing to meaningful projects.</h3>
 
 ###
 
